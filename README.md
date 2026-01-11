@@ -1,4 +1,4 @@
-# Album API - HW1a
+# Album API: HW1a
 
 A simple REST API built with Go and Gin for CS 6650: Scalable Distributed Systems.
 
